@@ -1,0 +1,15 @@
+.container{
+	margin: o auto;
+	padding: 20px;
+	/* max-width: 100vw; */
+}
+
+.title{
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	font-size: 50px;
+	font-style: italic;
+	margin: 0;
+
+}
